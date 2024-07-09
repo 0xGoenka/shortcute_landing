@@ -2,7 +2,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="flex justify-center items-center">
+    <div className="flex justify-center items-center bg-light_beige">
       <div className="ellipse1"></div>
       <div className="ellipse2"></div>
       <div className="ellipse3"></div>
