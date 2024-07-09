@@ -98,7 +98,24 @@ function App() {
 
         <div className="border-t border-dark_beige w-full"></div>
         <div className="text-center my-[12px] text-black">
-          Made by Ulysse Ducamp and Esteban Leclet
+          Made by{" "}
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline"
+            href="https://www.linkedin.com/in/ulysse-ducamp-3752b413b/"
+          >
+            Ulysse Ducamp
+          </a>{" "}
+          and{" "}
+          <a
+            target="_blank"
+            className="underline"
+            rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/esteban-a-leclet-b99092111/"
+          >
+            Esteban Leclet
+          </a>
         </div>
       </div>
     </div>
