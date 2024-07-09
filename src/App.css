@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "TTHoves";
+  src: url("./TT\ Hoves\ Pro\ Trial\ Medium.ttf") format("truetype");
+}
+
+html {
+  font-family: "TTHoves";
+}
+
+.ellipse1 {
+  position: absolute;
+  width: 323px;
+  height: 432px;
+  left: 1082px;
+  top: 2530px;
+
+  background: #ffb7fc;
+  filter: blur(400px);
+}
+
+/* Ellipse 56 */
+
+.ellipse2 {
+  position: absolute;
+  width: 323px;
+  height: 432px;
+  left: -196px;
+  top: 1238px;
+
+  background: #ffb7fc;
+  filter: blur(400px);
+}
+
+.ellipse3 {
+  /* Ellipse 55 */
+
+  position: absolute;
+  width: 323px;
+  height: 432px;
+  left: 1169px;
+  top: -115px;
+
+  background: #ffb7fc;
+  filter: blur(400px);
+}
