@@ -46,9 +46,8 @@ function App() {
           <div className="mt-[44px]  item-end justify-end flex w-[592px] h-[370px]">
             <img
               width={592}
-              height={370}
               style={{ objectFit: "contain" }}
-              src="/public/demo.gif"
+              src="/demo.gif"
               alt=""
             />
           </div>
@@ -61,9 +60,8 @@ function App() {
           <div className="mt-[44px] flex-1 justify-center w-full flex mb-[80px]">
             <img
               width={592}
-              height={370}
               style={{ objectFit: "contain" }}
-              src="/public/Save_a_shorcut.gif"
+              src="/Save_a_shorcut.gif"
               alt=""
             />
           </div>
@@ -74,12 +72,7 @@ function App() {
             2. Practice your saved shortcuts with our mini-game website
           </div>
           <div className="mt-[44px] flex-1 justify-center w-full flex mb-[80px]">
-            <img
-              width={592}
-              height={370}
-              src="/public/Save_a_shorcut.gif"
-              alt=""
-            />
+            <img width={592} height={370} src="/Save_a_shorcut.gif" alt="" />
           </div>
         </section>
 
