@@ -47,8 +47,8 @@ function App() {
             <img
               width={592}
               height={370}
-              style={{ objectFit: "cover" }}
-              src="https://uploads.linear.app/6428672a-ee13-417a-a8a4-dd3a0ddfc5a8/a9cbd790-c16e-43e2-ac84-97e52316aca1/d294bc30-f8a5-4ea4-9040-c557a55e7e71"
+              style={{ objectFit: "contain" }}
+              src="/public/demo.gif"
               alt=""
             />
           </div>
@@ -62,7 +62,8 @@ function App() {
             <img
               width={592}
               height={370}
-              src="https://uploads.linear.app/6428672a-ee13-417a-a8a4-dd3a0ddfc5a8/8c21ae93-35c1-47b7-a64f-274b71e169f8/c2d135a5-0963-4fa4-abb0-b638ecf05bc5"
+              style={{ objectFit: "contain" }}
+              src="/public/Save_a_shorcut.gif"
               alt=""
             />
           </div>
@@ -76,7 +77,7 @@ function App() {
             <img
               width={592}
               height={370}
-              src="https://uploads.linear.app/6428672a-ee13-417a-a8a4-dd3a0ddfc5a8/0212cc14-1f87-450a-93fb-0169da6db0b2/5444aead-d601-4785-8b30-8b47f6fe7932"
+              src="/public/Save_a_shorcut.gif"
               alt=""
             />
           </div>
