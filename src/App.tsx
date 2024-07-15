@@ -15,7 +15,7 @@ function App() {
       <div className="mx-[48px] max-w-[1235px]">
         <header className="flex flex-row justify-between">
           <div className="mt-[34px] text-base font-[500]">Short_cute</div>
-          <button className="z-[100] mt-[24px] px-[16px] py-[12px] bg-dark block text-beige rounded-md">
+          <button className="z-[100] mt-[24px] px-[16px] py-[12px] bg-dark block text-light_beige rounded-md">
             Download our Chrome Extension
           </button>
         </header>
@@ -36,16 +36,16 @@ function App() {
               3. become a shortcuts athlete
               <br />
             </div>
-            <button className="mb-[24px] px-[16px] py-[12px] bg-dark block text-beige rounded-md">
+            <button className="mb-[24px] px-[16px] py-[12px] bg-dark block text-light_beige rounded-md">
               Download our Chrome Extension
             </button>
             <div className="text-dark_beige">
               (Only available on Google Chrome for now)
             </div>
           </div>
-          <div className="mt-[44px]  item-end justify-end flex w-[592px] h-[370px]">
+          <div className="mt-[44px]  item-end justify-end flex z-100 h-[280px] br-8">
             <img
-              width={592}
+              width={500}
               style={{ objectFit: "contain" }}
               src="/demo.gif"
               alt=""
@@ -106,7 +106,7 @@ function App() {
                 <br /> shortcuts as you want.
               </div>
               <div className="flex item-center justify-center mt-[24px]">
-                <button className="mb-[24px] px-[32px] py-[12px] bg-dark block text-beige rounded-md mb-[8px]">
+                <button className="mb-[24px] px-[32px] py-[12px] bg-dark block text-light_beige rounded-md mb-[8px]">
                   Start your 3 days free trial
                 </button>
               </div>

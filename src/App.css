@@ -11,6 +11,20 @@ html {
   font-family: "Urbanist-SemiBold";
 }
 
+img {
+  border-radius: 8px;
+  overflow: hidden;
+  display: block;
+}
+
+.img_container {
+  border-radius: 8px;
+  overflow: hidden;
+  display: block;
+  width: 572px;
+  height: 300px;
+}
+
 .ellipse1 {
   position: absolute;
   width: 323px;
