@@ -1,4 +1,10 @@
 import "./App.css";
+import Hotjar from "@hotjar/browser";
+
+const siteId = 5059919;
+const hotjarVersion = 6;
+
+Hotjar.init(siteId, hotjarVersion);
 
 function App() {
   return (
