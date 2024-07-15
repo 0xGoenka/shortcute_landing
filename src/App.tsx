@@ -37,10 +37,11 @@ function App() {
               (Only available on Google Chrome for now)
             </div>
           </div>
-          <div className="mt-[44px]  item-end justify-end flex">
+          <div className="mt-[44px]  item-end justify-end flex w-[592px] h-[370px]">
             <img
               width={592}
               height={370}
+              style={{ objectFit: "cover" }}
               src="https://uploads.linear.app/6428672a-ee13-417a-a8a4-dd3a0ddfc5a8/a9cbd790-c16e-43e2-ac84-97e52316aca1/d294bc30-f8a5-4ea4-9040-c557a55e7e71"
               alt=""
             />
