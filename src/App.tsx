@@ -38,7 +38,12 @@ function App() {
             </div>
           </div>
           <div className="mt-[44px]  item-end justify-end flex">
-            <img src="https://dummyimage.com/592x370/000/fff" alt="" />
+            <img
+              width={592}
+              height={370}
+              src="https://uploads.linear.app/6428672a-ee13-417a-a8a4-dd3a0ddfc5a8/a9cbd790-c16e-43e2-ac84-97e52316aca1/d294bc30-f8a5-4ea4-9040-c557a55e7e71"
+              alt=""
+            />
           </div>
         </section>
 
@@ -47,7 +52,12 @@ function App() {
             1. Save new shortcuts in seconds through our extension
           </div>
           <div className="mt-[44px] flex-1 justify-center w-full flex mb-[80px]">
-            <img src="https://dummyimage.com/592x370/000/fff" alt="" />
+            <img
+              width={592}
+              height={370}
+              src="https://uploads.linear.app/6428672a-ee13-417a-a8a4-dd3a0ddfc5a8/8c21ae93-35c1-47b7-a64f-274b71e169f8/c2d135a5-0963-4fa4-abb0-b638ecf05bc5"
+              alt=""
+            />
           </div>
         </section>
 
@@ -56,7 +66,12 @@ function App() {
             2. Practice your saved shortcuts with our mini-game website
           </div>
           <div className="mt-[44px] flex-1 justify-center w-full flex mb-[80px]">
-            <img src="https://dummyimage.com/592x370/000/fff" alt="" />
+            <img
+              width={592}
+              height={370}
+              src="https://uploads.linear.app/6428672a-ee13-417a-a8a4-dd3a0ddfc5a8/0212cc14-1f87-450a-93fb-0169da6db0b2/5444aead-d601-4785-8b30-8b47f6fe7932"
+              alt=""
+            />
           </div>
         </section>
 
@@ -65,7 +80,12 @@ function App() {
             3. become a shortcuts athlete ⚡️
           </div>
           <div className="mt-[44px] flex-1 justify-center w-full flex mb-[140px]">
-            <img src="https://dummyimage.com/592x370/000/fff" alt="" />
+            <img
+              width={592}
+              height={370}
+              src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpmNzhtOWY4cmhzeG1tNWM4djY5bG9pZDIwdzBvYnF5eWt0eG1pZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7srpeY4TZMrO8/200.webp"
+              alt=""
+            />
           </div>
         </section>
 
