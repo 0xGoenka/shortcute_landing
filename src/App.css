@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "TTHoves";
-  src: url("./TT\ Hoves\ Pro\ Trial\ Medium.ttf") format("truetype");
+  font-family: "Urbanist-SemiBold";
+  src: url("./Urbanist-SemiBold.ttf") format("truetype");
 }
 
 html {
-  font-family: "TTHoves";
+  font-family: "Urbanist-SemiBold";
 }
 
 .ellipse1 {
